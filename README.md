@@ -4,4 +4,4 @@
 - 🎓 **MSc** in Information Technology from [CMU](https://www.cmu.edu). 09/2020 - 08/2022;
 - 🎓 **BSc** in Computer Science from [BIT](https://www.bit.edu.cn/). 09/2016 - 06/2020;
 
-**My github.io page here** here 👉 [Ethan's space](https://ethanguo666.github.io/)
+**See my github.io page here** 👉 [Ethan's space](https://ethanguo666.github.io/)
